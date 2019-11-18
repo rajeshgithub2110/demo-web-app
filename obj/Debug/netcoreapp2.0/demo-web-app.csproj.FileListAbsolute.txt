@@ -1,0 +1,11 @@
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\bin\Debug\netcoreapp2.0\demo-web-app.deps.json
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\bin\Debug\netcoreapp2.0\demo-web-app.runtimeconfig.json
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\bin\Debug\netcoreapp2.0\demo-web-app.runtimeconfig.dev.json
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\bin\Debug\netcoreapp2.0\demo-web-app.dll
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\bin\Debug\netcoreapp2.0\demo-web-app.pdb
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.csprojAssemblyReference.cache
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.csproj.CoreCompileInputs.cache
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.AssemblyInfoInputs.cache
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.AssemblyInfo.cs
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.dll
+C:\Users\rajesh\Desktop\demo-web-app\demo-web-app\obj\Debug\netcoreapp2.0\demo-web-app.pdb
